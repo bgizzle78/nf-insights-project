@@ -111,4 +111,4 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 ## 👨‍💻 Author
 
 **Brandon Gray**
-Data Analyst / Full Stack Developer
+Data Analyst
