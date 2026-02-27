@@ -43,7 +43,7 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 **Supporting Questions**
 📈 How has employment changed across key industries?
 📉 What are the patterns in unemployment rates over time?
-💰 How does GDP growth compare across sectors and counties?
+💰 How does GDP growth compare across sectors?
 🏭 Which industries are growing or shrinking?
 🌐 How can insights from this data guide future economic policy?
 
@@ -53,15 +53,15 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 
 ### 📦 Data Sources
 
-* **BLS CES (Current Employment Statistics)** – Industry employment data
-* **BLS LAUS (Local Area Unemployment Statistics)** – Unemployment data
-* **BEA (Bureau of Economic Analysis)** – State GDP and regional economic data
+* **BLS CES (Current Employment Statistics)** – State industry employment data
+* **BLS LAUS (Local Area Unemployment Statistics)** – State unemployment data
+* **BEA (Bureau of Economic Analysis)** – State industry GDP economic data
 * **WVSOS Business Registrations** – State-level business formation data
 
 ### 🧹 Cleaning & Normalization Steps
 
 * Standardized column names and removed extra whitespace
-* Filtered for **West Virginia** and relevant geographies
+* Filtered for **West Virginia**
 * Converted dates to consistent formats for time series analysis
 * Reordered columns for clarity and merged related datasets
 * Ensured numeric types were correct for calculations and analysis
@@ -74,10 +74,10 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 ## ⚠️ Challenges Encountered
 
 * Inconsistent date formats across datasets 📅
-* Missing or sparse data for certain counties and years 🕳️
+* Missing or sparse data for certain years 🕳️
 * Duplicate rows in some datasets, requiring careful de-duplication 🧹
 * Differences in industry classification across BLS and BEA data 🏭
-* Harmonizing state vs county-level data for unified analysis 🌐
+* Harmonizing state data for unified analysis 🌐
 
 ---
 
