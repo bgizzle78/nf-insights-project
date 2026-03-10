@@ -1,11 +1,11 @@
 # 🌄 West Virginia Economic Trends – NewForce Insights Project
 
-![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Storage-34A853?style=for-the-badge\&logo=google-sheets\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Storage-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Visualization-FF6F00?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Version_control-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_control-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -30,6 +30,7 @@ This project focuses on:
 * Labor market performance (employment/unemployment trends)
 * Industry employment shifts (BLS CES & LAUS data)
 * Gross Domestic Product patterns (BEA data)
+* Business formation trends (WV SOS business registration data)
 
 By combining multiple datasets, this project provides a **data-driven snapshot of West Virginia’s economy** and insights for decision-making.
 
