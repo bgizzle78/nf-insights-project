@@ -12,7 +12,7 @@
 ## 📋 Table of Contents
 
 * 🎯 Motivation
-* ❓ Key Questions
+* ❓ Project Focus & Questions
 * 🔧 Acquiring & Cleaning the Data
 * ⚠️ Challenges Encountered
 * 📊 Analysis & Presentation
@@ -36,17 +36,17 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 
 ---
 
-## ❓ Key Questions
+## ❓ Project Focus & Questions
 
-**Primary Question**
-💡 What are the main trends in West Virginia’s economy over time and how do industries compare?
+**Project Focus**
+💡 WV Economic Trends--Structure, Growth & Momentum
 
-**Supporting Questions**
-📈 How has employment changed across key industries?
-📉 What are the patterns in unemployment rates over time?
-💰 How does GDP growth compare across sectors?
-🏭 Which industries are growing or shrinking?
-🌐 How can insights from this data guide future economic policy?
+**Project Questions**
+📈 How has employment changed across key industries over time?
+📉 Which industries are driving job growth or decline?
+💰 How concentrated is economic activity across industries and what risk does that pose?
+🏭 Are gains in employment broadly distributed or narrowly concentrated?
+🌐 Do trends in business formation signal future employment or economic gain?
 
 ---
 
@@ -77,7 +77,7 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 * Inconsistent date formats across datasets 📅
 * Missing or sparse data for certain years 🕳️
 * Duplicate rows in some datasets, requiring careful de-duplication 🧹
-* Differences in industry classification across BLS and BEA data 🏭
+* Differences in industry classification across BLS, BEA and WVSOS data 🏭
 * Harmonizing state data for unified analysis 🌐
 
 ---
