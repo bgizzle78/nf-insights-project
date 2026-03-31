@@ -14,7 +14,7 @@
 👉 **Explore the full interactive dashboard site:**  
 [View WV Economic Insights Dashboard](https://wvinsights.info/)
 
-* This site hosts a collection of dashboards created as part of a team project, allowing users to explore West Virginia’s economic data through interactive visualizations and insights.
+* This site hosts a collection of dashboards created as part of a Generation WV-NewForce Insights team project, allowing users to explore West Virginia’s economic data through interactive visualizations and insights.
 ---
 
 ## 📋 Table of Contents

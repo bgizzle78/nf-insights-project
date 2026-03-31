@@ -23,5 +23,6 @@ Thumbs.db
 # Data folders
 data_raw/
 data_clean/
+data_final/
 *.csv
 *.parquet
