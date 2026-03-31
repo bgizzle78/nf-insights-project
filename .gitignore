@@ -23,6 +23,11 @@ Thumbs.db
 # Data folders
 data_raw/
 data_clean/
-data_final/
+
+# Ignore all .csv and .parquet files by default
 *.csv
 *.parquet
+
+# Allow final, presentation ready datasets
+!data_final/
+!data_final/*.csv
