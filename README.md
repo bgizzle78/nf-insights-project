@@ -1,10 +1,11 @@
 # 🌄 West Virginia Economic Trends – NewForce Insights Project
 
 ![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-3776AB?style=for-the-badge&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Storage-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Visualization-FF6F00?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Visualization-yellow?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version_control-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
