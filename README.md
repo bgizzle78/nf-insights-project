@@ -3,10 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-3776AB?style=for-the-badge&logo=pandas&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Storage-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Data_Exploration-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Storage-yellow?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Visualization-yellow?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version_control-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-gree?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
