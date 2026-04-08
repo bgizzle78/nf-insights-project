@@ -105,6 +105,7 @@ By combining multiple datasets, this project provides a **data-driven snapshot o
 
 * **Python** – Data cleaning and exploration (Pandas, NumPy)
 * **VS Code / Anaconda** – IDE and environment for Python workflows
+* **Jupyter Notebooks** – Exploratory data analysis, data validation, and iterative data cleaning
 * **Google Sheets** – Data review and intermediate storage
 * **Looker Studio** – Interactive dashboards and presentation visualization
 * **Git / GitHub** – Version control and project management
